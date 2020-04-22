@@ -11,6 +11,10 @@ Alice and Bob will then take the values of g and p and use them to calculate m =
 
 This process can be repeated within an arbitrarily large group as required.
 
+### IMPORTANT NOTE ###
+
+I am just some guy in a room. If you are trying to understand the algorithm I hope you will find this useful but if you're using this IRL use a version made by someone actually qualified.
+
 ### Sources ###
 
 * https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
